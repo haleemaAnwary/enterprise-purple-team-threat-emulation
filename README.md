@@ -5,6 +5,8 @@
 
 A Red/Blue collaborative security exercise against an intentionally vulnerable banking application deployed inside a segmented virtual enterprise. The team executed four attack scenarios, measured baseline monitoring gaps, implemented targeted detections and mitigations, and repeated the tests to validate improvements.
 
+**Project evidence:** [Full group report (PDF)](<docs/Copy%20of%20Purple%20Team%20Project%20Report.pdf>) · [Attack scenarios](docs/scenarios.md) · [Detection/validation](docs/validation.md)
+
 ## Team
 **Haleemah Anwary · Sharisse Esguerra · Govind Sharma · Joshua Petrone**
 
@@ -37,6 +39,7 @@ The lab separated an external attacker, a DMZ application, internal server servi
 - All testing took place against an intentionally vulnerable, controlled lab environment.
 
 ## Documentation
+- [Complete group project report (PDF)](<docs/Copy%20of%20Purple%20Team%20Project%20Report.pdf>)
 - [Architecture and monitoring](docs/architecture.md)
 - [Attack scenarios](docs/scenarios.md)
 - [Detection and validation results](docs/validation.md)
