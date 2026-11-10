@@ -1,0 +1,12 @@
+# Local environments and potential sensitive material
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.kdbx
+*.log
+__pycache__/
+.venv/
+venv/
